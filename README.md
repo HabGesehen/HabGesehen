@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**HabGesehen/HabGesehen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+**Hello**. Ich bin Habs. I am a person who lives in the **US**, and is from **GERMANY**. I like to code discord bots, and other small projects. I am also a linux enthusiest, and that is all you need to know about me.
 
-Here are some ideas to get you started:
+<details>
+<summary>Other info</summary>
+<br>
+👩‍💻 I'm currently working on Microdex, and some other projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I'm currently learning basic school stuff and how to be a better chess player!
+
+📫 How to reach me: Discord. Discord is Habs Goose#1558
+</details>
+
+<details>
+<summary>🛠 Skills</summary>
+Python, HTML CSS JAVASCRIPT, and a little bit of everything else!
+</details>
