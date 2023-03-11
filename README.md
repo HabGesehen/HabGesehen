@@ -14,5 +14,6 @@
 
 <details>
 <summary>🛠 Skills</summary>
+<br>
 Python, HTML CSS JAVASCRIPT, and a little bit of everything else!
 </details>
